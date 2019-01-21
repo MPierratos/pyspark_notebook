@@ -2,6 +2,8 @@
 
 Generate a docker container with pyspark installation and example notebooks for reference code.
 
+Sample data sets and notebook code is from https://www.udemy.com/taming-big-data-with-apache-spark-hands-on/
+
 ## Getting Started
 
 #### 1. Install Docker Hub
