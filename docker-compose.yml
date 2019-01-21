@@ -5,6 +5,9 @@ services:
     build: .
     ports:
       - "8888:8888"
+      - "4040:4040"
+      - "4041:4041"
+
     volumes:
           - "./notebooks:/work/notebooks"
           - "./data:/work/data"
